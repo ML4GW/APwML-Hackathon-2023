@@ -4,3 +4,6 @@
 [submodule "APwML-Hackathon-HP-Search"]
 	path = APwML-Hackathon-HP-Search
 	url = git@github.com:ML4GW/APwML-Hackathon-HP-Search.git
+[submodule "APwML-Hackathon-Distributed-Inference"]
+	path = APwML-Hackathon-Distributed-Inference
+	url = git@github.com:ML4GW/APwML-Hackathon-Distributed-Inference.git
