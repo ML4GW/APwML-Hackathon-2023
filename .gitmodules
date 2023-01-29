@@ -1,0 +1,6 @@
+[submodule "APwML-Hackathon-Validation-API"]
+	path = APwML-Hackathon-Validation-API
+	url = git@github.com:ML4GW/APwML-Hackathon-Validation-API.git
+[submodule "APwML-Hackathon-HP-Search"]
+	path = APwML-Hackathon-HP-Search
+	url = git@github.com:ML4GW/APwML-Hackathon-HP-Search.git
